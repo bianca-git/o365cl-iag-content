@@ -64,3 +64,6 @@ typings/
 
 # ignore styleguide tmp folder
 .tmp
+
+# VS Folders
+\.vs
