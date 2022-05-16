@@ -1,10 +1,212 @@
 {
-  "Technologies": [],
-  "Categories": [],
+  "Technologies": [
+    {
+      "Id": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+      "Name": "Accessibility",
+      "Subjects": [
+        {
+          "Id": "b4c8bda7-b87b-40f5-9c12-facd838f33be",
+          "Name": "Documents"
+        },
+        {
+          "Id": "cf8c9e68-90c9-4d45-9751-8bc5e46db013",
+          "Name": "Vision"
+        },
+        {
+          "Id": "4148bf25-ff41-40b2-a7c8-414b2b5c52b3",
+          "Name": "Hearing"
+        },
+        {
+          "Id": "e35f735e-3633-441e-a056-960f523ee64a",
+          "Name": "Neurodiversity"
+        }
+      ]
+    }
+  ],
+  "Categories": [
+
+    {
+      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
+      "Name": "Accessibility Hub",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        {
+          "Id": "5bbbe57f-709b-40b2-bec8-af0633d3582b",
+          "Name": [
+            {
+              "LanguageCode": "en-us",
+              "Text": "Documentation"
+            }
+          ],
+          "Image": [
+            {
+              "LanguageCode": "en-us",
+              "Text": "https://iagau.sharepoint.com/sites/O365CL/SiteAssets/Accessibility_Documents.png"
+            }
+          ],
+          "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+          "SubjectId": "b4c8bda7-b87b-40f5-9c12-facd838f33be",
+          "Source": "Tenant",
+          "SubCategories": []
+        },
+        {
+          "Id": "2cad0faf-a193-4d30-b9ab-1bfde686ad03",
+          "Name": [
+            {
+              "LanguageCode": "en-us",
+              "Text": "Visual Accessibility"
+            }
+          ],
+          "Image": [
+            {
+              "LanguageCode": "en-us",
+              "Text": "https://iagau.sharepoint.com/sites/O365CL/SiteAssets/Accessibility_Vision.png"
+            }
+          ],
+          "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+          "SubjectId": "cf8c9e68-90c9-4d45-9751-8bc5e46db013",
+          "Source": "Tenant",
+          "SubCategories": []
+        },
+        {
+          "Id": "ab172a51-8b0c-4cbb-b29b-4c4f1c2c6939",
+          "Name": [
+            {
+              "LanguageCode": "en-us",
+              "Text": "Hearing Accessibility"
+            }
+          ],
+          "Image": [
+            {
+              "LanguageCode": "en-us",
+              "Text": "https://iagau.sharepoint.com/sites/O365CL/SiteAssets/Accessibility_Hearing.png"
+            }
+          ],
+          "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+          "SubjectId": "4148bf25-ff41-40b2-a7c8-414b2b5c52b3",
+          "Source": "Tenant",
+          "SubCategories": []
+        },
+        {
+          "Id": "7f085ca6-76f6-41e8-9c5a-bcf03af875a0",
+          "Name": [
+            {
+              "LanguageCode": "en-us",
+              "Text": "Neurodiverse Accessibility"
+            }
+          ],
+          "Image": [
+            {
+              "LanguageCode": "en-us",
+              "Text": "https://iagau.sharepoint.com/sites/O365CL/SiteAssets/Accessibility_Neurodiverse.png"
+            }
+          ],
+          "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+          "SubjectId": "e35f735e-3633-441e-a056-960f523ee64a",
+          "Source": "Tenant",
+          "SubCategories": []
+        },
+        {
+          "Id": "0a2935cb-1efa-4e2d-aa05-bafc1f60c8a3",
+          "Name": [
+            {
+              "LanguageCode": "en-us",
+              "Text": "Other"
+            }
+          ],
+          "Image": [
+            {
+              "LanguageCode": "en-us",
+              "Text": "https://iagau.sharepoint.com/sites/O365CL/SiteAssets/Accessibility_Additional.png"
+            }
+          ],
+          "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+          "SubjectId": "",
+          "Source": "Tenant",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
+      "Name": "Adoption Tools",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        {
+          "Id": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
+          "Name": "Tools",
+          "Image": "images/categories/toolkit.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "281c0108-6e20-4fc3-9459-ba267857498e",
+          "Name": "Admin Success Center",
+          "Image": "images/categories/set-up-Microsoft-365-learning-pathway.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    }
+  ],
   "Audiences": [
+    {
+      "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
+      "Name": "All"
+    },
+    {
+      "Id": "304b216c-ea4d-436c-83f8-93ba1319943b",
+      "Name": "Champions/Trainer"
+    },
+    {
+      "Id": "41779dd0-ae42-4a62-8b66-bd87c137f4ac",
+      "Name": "HelpDesk"
+    },
     {
       "Id": "82a23325-2e47-4ff9-8747-b6e01c452b81",
       "Name": "End User"
+    },
+    {
+      "Id": "97150537-2c2f-42f9-8bc6-73e68fda0d38",
+      "Name": "Change Manager"
+    },
+    {
+      "Id": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
+      "Name": "Admin"
+    },
+    {
+      "Id": "a8787978-0ee5-4bc6-9c2c-eb11fc47cbfd",
+      "Name": "Group Owner"
+    },
+    {
+      "Id": "c92ae45b-8770-48f6-8870-3ec74a310da7",
+      "Name": "VIP"
+    },
+    {
+      "Id": "d093e0b6-b9f1-4b46-877c-0a49e989ee40",
+      "Name": "Executive Assistant"
+    },
+    {
+      "Id": "e22b05b1-e778-4c97-9646-b8933c209772",
+      "Name": "Content Editor"
+    },
+    {
+      "Id": "e2fce8e0-2014-4e36-81a5-0723b85958f8",
+      "Name": "Site Sponsor"
+    },
+    {
+      "Id": "f110eb03-e899-46a9-83be-8f507dae83c1",
+      "Name": "Content Manager"
     }
   ],
   "Sources": [
@@ -19,6 +221,14 @@
     {
       "Id": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
       "Name": "Beginner"
+    },
+    {
+      "Id": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
+      "Name": "Intermediate"
+    },
+    {
+      "Id": "fbc841eb-1082-4c27-b13b-f7965947cb16",
+      "Name": "Advanced"
     }
   ],
   "StatusTag": [
