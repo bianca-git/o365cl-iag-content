@@ -27,7 +27,7 @@
 
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Accessibility Hub",
+      "Name": "",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -38,7 +38,7 @@
           "Name": [
             {
               "LanguageCode": "en-us",
-              "Text": "Documentation"
+              "Text": "Accessible Documents ??"
             }
           ],
           "Image": [
@@ -57,7 +57,7 @@
           "Name": [
             {
               "LanguageCode": "en-us",
-              "Text": "Visual Accessibility"
+              "Text": "Improving Visibility ??"
             }
           ],
           "Image": [
@@ -76,7 +76,7 @@
           "Name": [
             {
               "LanguageCode": "en-us",
-              "Text": "Hearing Accessibility"
+              "Text": "Clearly Hearing ????"
             }
           ],
           "Image": [
@@ -95,7 +95,7 @@
           "Name": [
             {
               "LanguageCode": "en-us",
-              "Text": "Neurodiverse Accessibility"
+              "Text": "Neurodiverse Brains ??"
             }
           ],
           "Image": [
@@ -114,7 +114,7 @@
           "Name": [
             {
               "LanguageCode": "en-us",
-              "Text": "Other"
+              "Text": "Additional Information ?"
             }
           ],
           "Image": [
