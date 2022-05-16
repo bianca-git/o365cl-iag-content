@@ -61,6 +61,7 @@ typings/
 .next
 
 \.vscode/
+\.vs/
 
 # ignore styleguide tmp folder
 .tmp
