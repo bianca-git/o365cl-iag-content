@@ -818,5 +818,25 @@
     "Source": "Tenant",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+  {
+    "Id": "8196ef6e-93fc-4052-9410-bd70eb396026",
+    "Title": [
+      {
+        "LanguageCode": "en-us",
+        "Text": "Use voice typing to talk instead of type on your PC"
+      }
+    ],
+    "Url": [
+      {
+        "LanguageCode": "en-us",
+        "Text": "https://support.office.com/en-us/client/fec94565-c4bd-329d-e59a-af033fa5689f#WindowsVersion=Windows_10"
+      }
+    ],
+    "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
 ]
