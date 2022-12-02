@@ -27,7 +27,11 @@
     ],
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "1539f168-f27c-4215-9319-a5fafd76eec6", "20a02e3c-437e-4ab2-8441-9f902e78c675", "5c882b54-d2b1-4270-b65d-79483a2aa3ca" ]
+    "Assets": [
+      "1539f168-f27c-4215-9319-a5fafd76eec6",
+      "20a02e3c-437e-4ab2-8441-9f902e78c675",
+      "5c882b54-d2b1-4270-b65d-79483a2aa3ca"
+    ]
   },
   {
     "Id": "76253e80-b36d-479a-9267-e73f2b5a8600",
@@ -57,7 +61,15 @@
     ],
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "6596fb5a-c25e-4dcb-b034-7cb38b611e38", "727e6ff1-ef1c-475d-90d0-196e26b5b753", "8b97437b-107f-43e5-8280-17ac317995fa", "8e7eadca-6501-4ac5-b616-f94c2c491629", "908d26b8-0c45-44c1-9a83-b8ff583aa4ef", "9420d2d8-f04d-4d00-b852-2d846dbedfe9", "9f920424-7de6-4002-b4ed-6503a3cfae2d" ]
+    "Assets": [
+      "6596fb5a-c25e-4dcb-b034-7cb38b611e38",
+      "727e6ff1-ef1c-475d-90d0-196e26b5b753",
+      "8b97437b-107f-43e5-8280-17ac317995fa",
+      "8e7eadca-6501-4ac5-b616-f94c2c491629",
+      "908d26b8-0c45-44c1-9a83-b8ff583aa4ef",
+      "9420d2d8-f04d-4d00-b852-2d846dbedfe9",
+      "9f920424-7de6-4002-b4ed-6503a3cfae2d"
+    ]
   },
   {
     "Id": "c4d3a610-6289-4979-b0b6-b679ef28c13b",
@@ -87,7 +99,11 @@
     ],
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "a02cbbff-d56f-477d-bd8b-d485408ae5eb", "b6826ecd-5865-4db4-a8e7-f5a33d2799b5", "ce53495d-c30e-442a-b1d2-05593cc814c0" ]
+    "Assets": [
+      "a02cbbff-d56f-477d-bd8b-d485408ae5eb",
+      "b6826ecd-5865-4db4-a8e7-f5a33d2799b5",
+      "ce53495d-c30e-442a-b1d2-05593cc814c0"
+    ]
   },
   {
     "Id": "776fc7e7-cd09-4968-887f-cc04e8558b9e",
@@ -117,7 +133,13 @@
     ],
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "d47b9703-df15-4a41-b895-e97729062e23", "d8de6398-e129-4019-8b34-b241e164456a", "e4ebc1c2-4781-4201-b6a6-bd3b02c25197", "e69562f7-e875-485d-839b-cb66b5d98023", "ebbbe5e7-a950-46b8-b63a-738a87b5a49a" ]
+    "Assets": [
+      "d47b9703-df15-4a41-b895-e97729062e23",
+      "d8de6398-e129-4019-8b34-b241e164456a",
+      "e4ebc1c2-4781-4201-b6a6-bd3b02c25197",
+      "e69562f7-e875-485d-839b-cb66b5d98023",
+      "ebbbe5e7-a950-46b8-b63a-738a87b5a49a"
+    ]
   },
   {
     "Id": "b930fb95-e70f-46bc-85d2-c950e52d0470",
@@ -147,7 +169,12 @@
     ],
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "3c81915b-4dd6-43b9-b4a3-76995d16cec7", "5faa0e0b-6934-4615-816d-ea1b18bb67ab", "afc14735-e921-4f11-a71d-a0ad889d852c", "fe419bc9-aa6c-40a6-a766-db02a86b8d32" ]
+    "Assets": [
+      "3c81915b-4dd6-43b9-b4a3-76995d16cec7",
+      "5faa0e0b-6934-4615-816d-ea1b18bb67ab",
+      "afc14735-e921-4f11-a71d-a0ad889d852c",
+      "fe419bc9-aa6c-40a6-a766-db02a86b8d32"
+    ]
   },
   {
     "Id": "f21ed8c6-b07e-4595-82c6-b411d2d3d69f",
@@ -177,7 +204,11 @@
     ],
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "141c9fec-112f-4099-921f-2b7ddbef0f4b", "2bc81a44-f5f4-4cca-a0e8-40405c18567d", "92ba1b35-ceb3-46c7-8bc0-eea34d68d64a" ]
+    "Assets": [
+      "141c9fec-112f-4099-921f-2b7ddbef0f4b",
+      "2bc81a44-f5f4-4cca-a0e8-40405c18567d",
+      "92ba1b35-ceb3-46c7-8bc0-eea34d68d64a"
+    ]
   },
   {
     "Id": "657df119-f758-4e8c-9cce-41d1746915d8",
@@ -207,7 +238,9 @@
     ],
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "7c54f4f5-147f-4c7f-983a-49df23cd28b3" ]
+    "Assets": [
+      "7c54f4f5-147f-4c7f-983a-49df23cd28b3"
+    ]
   },
   {
     "Id": "e3382dec-9b5b-4a6b-b900-98cc865fd3fc",
@@ -237,7 +270,11 @@
     ],
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "1a308f88-3c8a-424d-af92-febf1d4279b7", "93a462fd-740b-4520-9bfc-31bf82bb8c5a", "1927784d-2992-4321-bf5a-1f5c54d37bad" ]
+    "Assets": [
+      "1a308f88-3c8a-424d-af92-febf1d4279b7",
+      "93a462fd-740b-4520-9bfc-31bf82bb8c5a",
+      "1927784d-2992-4321-bf5a-1f5c54d37bad"
+    ]
   },
   {
     "Id": "21620c31-0d4d-4952-b043-2137a49b8e50",
@@ -267,7 +304,9 @@
     ],
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "68e282ed-c784-40fc-bccb-95148fc0a866" ]
+    "Assets": [
+      "68e282ed-c784-40fc-bccb-95148fc0a866"
+    ]
   },
   {
     "Id": "1f105056-b525-4463-a5c8-68067d545e10",
@@ -297,7 +336,11 @@
     ],
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "338a5f46-b502-420a-926e-e7d369ce6223", "88b0b93f-3acf-4050-add8-f68f4de77472", "f7face28-712f-4847-8bbe-2e04648ef777" ]
+    "Assets": [
+      "338a5f46-b502-420a-926e-e7d369ce6223",
+      "88b0b93f-3acf-4050-add8-f68f4de77472",
+      "f7face28-712f-4847-8bbe-2e04648ef777"
+    ]
   },
   {
     "Id": "5fa2c267-8dc6-4020-a0f5-c3d3c6c40896",
@@ -327,7 +370,11 @@
     ],
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "2dbb2bbe-7c62-4fd1-a53f-35c27ebc8e26", "52053eaf-86ee-45ad-84f4-a729a8bede61", "3b493430-fe2b-441e-bcd2-def165e31fac" ]
+    "Assets": [
+      "2dbb2bbe-7c62-4fd1-a53f-35c27ebc8e26",
+      "52053eaf-86ee-45ad-84f4-a729a8bede61",
+      "3b493430-fe2b-441e-bcd2-def165e31fac"
+    ]
   },
   {
     "Id": "581c88f4-64ab-45b0-be2b-9f268f84da8c",
@@ -357,7 +404,11 @@
     ],
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "67350dce-9815-4a37-b698-e929eed514e3", "e7a5f2d6-55bb-4ab8-80ff-bf79f51a5505", "593a2c28-31f8-4e2c-af88-c8b5c9cf23a0" ]
+    "Assets": [
+      "67350dce-9815-4a37-b698-e929eed514e3",
+      "e7a5f2d6-55bb-4ab8-80ff-bf79f51a5505",
+      "593a2c28-31f8-4e2c-af88-c8b5c9cf23a0"
+    ]
   },
   {
     "Id": "ab2b6c70-dce8-4deb-827d-a7ccbde21ae1",
@@ -387,7 +438,9 @@
     ],
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "dc4f1b02-bd90-4d96-bfd0-fa46218b40d7" ]
+    "Assets": [
+      "dc4f1b02-bd90-4d96-bfd0-fa46218b40d7"
+    ]
   },
   {
     "Id": "6ddf4530-d414-48b3-980d-98bfde9c8863",
@@ -417,6 +470,40 @@
     ],
     "StatusTagId": "",
     "StatusNote": "",
-    "Assets": [ "c7c52f73-c610-4681-a8e7-be3548e2b08e" ]
+    "Assets": [
+      "c7c52f73-c610-4681-a8e7-be3548e2b08e"
+    ]
+  },
+  {
+    "Id": "2badcc64-2cd1-42f6-b5a6-7cde9881d54c",
+    "Title": [
+      {
+        "LanguageCode": "en-us",
+        "Text": "Use voice typing to talk instead of type on your PC"
+      }
+    ],
+    "Image": [
+      {
+        "LanguageCode": "en-us",
+        "Text": "https://iagau.sharepoint.com/sites/O365CL/SiteAssets/Accessibility_Additional.png"
+      }
+    ],
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "0a2935cb-1efa-4e2d-aa05-bafc1f60c8a3",
+    "Description": [
+      {
+        "LanguageCode": "en-us",
+        "Text": "Use dictation to convert spoken words into text anywhere on your PC with Windows 10. Dictation uses speech recognition, which is built into Windows 10, so there's nothing you need to download and install to use it."
+      }
+    ],
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "8196ef6e-93fc-4052-9410-bd70eb396026"
+    ]
   }
 ]
